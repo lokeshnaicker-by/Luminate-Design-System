@@ -1,0 +1,7 @@
+echo "# Luminate-Design-System" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/lokeshnaicker-by/Luminate-Design-System.git
+git push -u origin master
+                
